@@ -1,0 +1,8 @@
+###
+GET http://localhost:7071/api/TheLongestKebab?weightingrams=453 HTTP/1.1
+
+###
+GET http://localhost:7071/api/TheLongestKebab?weightingrams=1000 HTTP/1.1
+
+###
+GET http://localhost:7071/api/TheLongestKebab?weightingrams=5000 HTTP/1.1
